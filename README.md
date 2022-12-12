@@ -1,3 +1,2 @@
 # Interview_show
-# Interview_show
-# Interview_show
+This repository aims to show my skills and abilities on resume.
